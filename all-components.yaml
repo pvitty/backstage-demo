@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: backstage-test
+  description: A collection of Backstage components
+spec:
+  targets:
+    - ./intel.yaml
