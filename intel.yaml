@@ -4,7 +4,7 @@ metadata:
   name: intel-gateway
   description: Intel Gateway
   annotations:
-    gitlab.com/project-id: '25824608'
+    gitlab.com/project-id: '25429404'
     github.com/project-slug: GolfNowEng/intel-frontend-gateway
   tags:
     - java
