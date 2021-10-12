@@ -6,6 +6,7 @@ metadata:
   annotations:
     gitlab.com/project-id: '25429404'
     github.com/project-slug: GolfNowEng/intel-frontend-gateway
+    backstage.io/techdocs-ref: docs
   tags:
     - java
     - data
